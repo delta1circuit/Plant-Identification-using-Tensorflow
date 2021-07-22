@@ -5,7 +5,7 @@ This is a simple machine learning project, wherein the program detects the plant
 The dataset used is the PlantVillage dataset from Kaggle which can be found here - https://www.kaggle.com/emmarex/plantdisease
 
 Make a folder named "data" in the working directory of the python files. Create a folder for each plant data - I have only taken 5 plants, but you cam take as many as you want. 
-Just make sure you update the .py file with the names of the plants so that you get the required results. 
+Just make sure you update the classifier.py file with the names of the plants in the variable 'category' so that you get the required results. 
 
 Running:
 First run the utils.py file followed by the classifier.py file. This is a one-time job. 
